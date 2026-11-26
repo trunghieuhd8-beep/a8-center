@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "brand": "A8",
-  "updated": "2026-11-26 20:04",
+  "updated": "2026-11-26 20:33",
   "notice": null,
   "plugins": [
     {
@@ -14,11 +14,11 @@
       "min_sketchup": 2021,
       "icon": "icons/a8_center.png",
       "restart": false,
-      "notes": "1.0.1: Đọc phiên bản đã cài từ file trên đĩa, hết báo nhầm \"Có bản mới\" ngay sau khi cập nhật.\n1.0.0: Bản đầu tiên. Xem, cài và cập nhật plugin A8 không cần tắt SketchUp.",
-      "version": "1.0.1",
-      "download": "packages/A8_Center_1.0.1.rbz",
-      "sha256": "b47a2b76162d831f721db26c96d38911c31836e860ebf09e4f0ca5fd936bf706",
-      "size": 9395,
+      "notes": "1.1.0: Đăng nhập bằng tên + số điện thoại, xem bản quyền từng plugin, dùng thử 1 ngày, nhập key (key riêng hoặc Combo A8). Icon mới đồng bộ.\n1.0.1: Đọc phiên bản đã cài từ file trên đĩa.\n1.0.0: Bản đầu tiên.",
+      "version": "1.1.0",
+      "download": "packages/A8_Center_1.1.0.rbz",
+      "sha256": "720cbf62be936eff09ebd45b93d72e691cdf25d5cb1ed74a82e27e56ed2be362",
+      "size": 16992,
       "date": "26/11/2026"
     },
     {
