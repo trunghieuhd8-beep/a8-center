@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "brand": "A8",
-  "updated": "2026-11-26 20:48",
+  "updated": "2026-11-26 22:24",
   "notice": null,
   "plugins": [
     {
@@ -36,8 +36,11 @@
       "trial": true,
       "key_hint": "A8MT-…",
       "version": "0.3.6",
-      "download": null,
-      "pending": true
+      "download": "packages/A8_Model_Tools_0.3.6.rbz",
+      "sha256": "6209c246e2104120817c40bc16fb25bc2aeacc2368a834d72a960ca3797b534c",
+      "size": 458837,
+      "date": "26/11/2026",
+      "notes": "0.3.6 · 26/11/2026\n\nGộp A8 Max Fix vào bộ dựng hình (nút Max Fix trên thanh A8). Bộ A8 Model Tools chuyển sang bản quyền A8: đăng nhập tên + SĐT, dùng thử 1 ngày, kích hoạt key A8MT-… hoặc Combo A8 (menu Extensions › A8 - Cong cu dung hinh › A8 Ban quyen). Nạp file bằng đường dẫn cố định để chạy được khi mã hoá .rbe.\n\n0.3.5 · 26/11/2026\n\nThêm Chữ 3D vào cuối thanh A8. Mỗi ký tự dựng một lần thành component dùng chung nên nhẹ hơn chữ 3D mặc định. Rải chữ thẳng, cung đứng (vồng lên / võng xuống), ốp mặt cong (lồi / lõm) hoặc sóng; nhiều dòng, căn lề, giãn chữ, giãn dòng, độ mịn nét cong. Bấm lên mặt tường thì chữ đứng quay ra ngoài, bấm lên sàn thì chữ nằm. Chọn chữ đã tạo rồi bật công cụ để sửa.\n\n0.3.4 · 26/11/2026\n\nChỉ âm tường khoét được vỏ tường hở (mặt tiền có ô cửa, mặt hông, không khép kín khối). Trước đây báo \"Chọn tường khối kín hoặc một mặt tường phẳng đứng riêng\". Với vỏ hở, rãnh được kẻ lên mặt rồi push/pull lõm vào; khối kín vẫn dùng boolean như cũ."
     },
     {
       "slug": "hsnt2d",
@@ -54,8 +57,10 @@
       "icon": "icons/hsnt2d.png",
       "restart": true,
       "version": "4.10.2",
-      "download": null,
-      "pending": true
+      "download": "packages/ARCH_HIEU_HSNT_2D_4.10.2.rbz",
+      "sha256": "d3066f35344725fbfb2f2bcc01e42698edb2f27c70343fb30d6efdee3af782db",
+      "size": 6396654,
+      "date": "26/11/2026"
     },
     {
       "slug": "hieu_arch6",
@@ -72,8 +77,10 @@
       "icon": "icons/hieu_arch6.png",
       "restart": true,
       "version": "6.0.1",
-      "download": null,
-      "pending": true
+      "download": "packages/HIEU_ARCH_6.0.1.rbz",
+      "sha256": "954e524ca545bba3fae1b8309b276777ae646931b2b1ce8414ac8ac7eed85065",
+      "size": 1544526,
+      "date": "26/11/2026"
     }
   ]
 }
