@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "brand": "A8",
+  "updated": "2026-11-26 20:01",
+  "notice": null,
+  "plugins": [
+    {
+      "slug": "a8_center",
+      "name": "A8 Center",
+      "extension_name": "A8 Center",
+      "loader_file": "a8_center.rb",
+      "folder": "a8_center",
+      "description": "Trung tâm cài đặt và cập nhật các plugin A8.",
+      "min_sketchup": 2021,
+      "icon": "icons/a8_center.png",
+      "restart": false,
+      "notes": "1.0.0: Bản đầu tiên. Xem, cài và cập nhật plugin A8 không cần tắt SketchUp.",
+      "version": "1.0.0",
+      "download": "packages/A8_Center_1.0.0.rbz",
+      "sha256": "144081599fa240a33ee15511713a47b1fffb44f83d0904e61d9a65436a2a3fab",
+      "size": 9262,
+      "date": "26/11/2026"
+    },
+    {
+      "slug": "a8_model_tools",
+      "name": "A8 Model Tools",
+      "extension_name": "A8 - Cong cu dung hinh",
+      "loader_file": "a8_model_tools.rb",
+      "folder": "a8_model_tools",
+      "description": "Dán CAD, gộp/khấu khối, dọn nét, tường CAD, sàn, tủ, CNC, chỉ âm tường, chữ 3D…",
+      "min_sketchup": 2022,
+      "icon": "icons/a8_model_tools.png",
+      "restart": true,
+      "version": "0.3.5",
+      "download": "packages/A8_Model_Tools_0.3.5.rbz",
+      "sha256": "8167a2a7d53f60985c19688a3d50bd3f349b8dfa327777981e7ab68bd46b717e",
+      "size": 179341,
+      "date": "26/11/2026",
+      "notes": "0.3.5 · 26/11/2026\n\nThêm Chữ 3D vào cuối thanh A8. Mỗi ký tự dựng một lần thành component dùng chung nên nhẹ hơn chữ 3D mặc định. Rải chữ thẳng, cung đứng (vồng lên / võng xuống), ốp mặt cong (lồi / lõm) hoặc sóng; nhiều dòng, căn lề, giãn chữ, giãn dòng, độ mịn nét cong. Bấm lên mặt tường thì chữ đứng quay ra ngoài, bấm lên sàn thì chữ nằm. Chọn chữ đã tạo rồi bật công cụ để sửa.\n\n0.3.4 · 26/11/2026\n\nChỉ âm tường khoét được vỏ tường hở (mặt tiền có ô cửa, mặt hông, không khép kín khối). Trước đây báo \"Chọn tường khối kín hoặc một mặt tường phẳng đứng riêng\". Với vỏ hở, rãnh được kẻ lên mặt rồi push/pull lõm vào; khối kín vẫn dùng boolean như cũ.\n\n0.3.3 · 26/11/2026\n\nChỉ âm tường: bấm vào tường đã có chỉ giờ nối tiếp dãy đó thay vì mở hộp sửa. Bấm thêm các mặt khác (cùng khối hoặc khối khác), Enter để khoét, chỉ chạy liền mạch cùng cao độ. Muốn sửa hoặc vá: bấm vào lòng rãnh, hoặc chuột phải chọn Sửa / vá dãy chỉ này."
+    }
+  ]
+}
