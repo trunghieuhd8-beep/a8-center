@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "brand": "A8",
-  "updated": "2026-11-26 22:24",
+  "updated": "2026-11-26 22:32",
   "notice": null,
   "plugins": [
     {
@@ -14,11 +14,11 @@
       "min_sketchup": 2021,
       "icon": "icons/a8_center.png",
       "restart": false,
-      "notes": "1.1.1: Hiện thẻ các plugin bán sắp phát hành để đăng ký dùng thử / kích hoạt key trước.\n1.1.0: Đăng nhập bằng tên + số điện thoại, xem bản quyền từng plugin, dùng thử 1 ngày, nhập key (key riêng hoặc Combo A8). Icon mới đồng bộ.\n1.0.1: Đọc phiên bản đã cài từ file trên đĩa.\n1.0.0: Bản đầu tiên.",
-      "version": "1.1.1",
-      "download": "packages/A8_Center_1.1.1.rbz",
-      "sha256": "df33daafe57ef05224ed741cfca4ced8e9ffbb425f52db4e380dfdb9b394cf79",
-      "size": 17066,
+      "notes": "1.1.2: Sửa màn đăng nhập không tự ẩn sau khi đăng nhập xong.\n1.1.1: Hiện thẻ các plugin bán sắp phát hành để đăng ký dùng thử / kích hoạt key trước.\n1.1.0: Đăng nhập bằng tên + số điện thoại, xem bản quyền từng plugin, dùng thử 1 ngày, nhập key (key riêng hoặc Combo A8). Icon mới đồng bộ.\n1.0.1: Đọc phiên bản đã cài từ file trên đĩa.\n1.0.0: Bản đầu tiên.",
+      "version": "1.1.2",
+      "download": "packages/A8_Center_1.1.2.rbz",
+      "sha256": "db8fbb209a583512251c1556eb532319223682d15182517b3a91ca2558925816",
+      "size": 17088,
       "date": "26/11/2026"
     },
     {
